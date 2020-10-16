@@ -1,6 +1,6 @@
 class Main {
   public static void main(String[] args) {
-    int[] anArray = {7,5,11,2,16,4,18,14,12,30};
+    int[] anArray = {7,5,11,2,16,4,18,28,12,30};
     System.out.println("Array voor sorteren:");
     for(int i = 0; i < anArray.length; i++){
       System.out.print(anArray[i] + " ");
